@@ -1,0 +1,821 @@
+Order_ID,Order_Date,Customer_Name,Category,Product,Quantity,Sales,Profit,City,Payment_Mode
+ORD0001,10-04-2025,Customer_104,Grocery,Oil,3,3864,636.83,Bengaluru,Net Banking
+ORD0002,11-12-2025,Customer_049,Furniture,Table,2,12102,626.48,Bengaluru,Debit Card
+ORD0003,01-09-2025,Customer_064,Furniture,Table,4,4756,692.55,Pune,Debit Card
+ORD0004,12-12-2025,Customer_053,Books,Data Analytics,5,2455,359.3,Mumbai,Cash
+ORD0005,02-01-2025,Customer_134,Grocery,Snacks,4,1020,97.47,Chennai,Credit Card
+ORD0006,03-08-2025,Customer_249,Grocery,Oil,2,2090,275.12,Chennai,Net Banking
+ORD0007,06-03-2025,Customer_089,Books,SQL Guide,5,7150,1791.43,Nagpur,UPI
+ORD0008,19-08-2025,Customer_250,Electronics,Keyboard,3,120912,8283.82,Pune,Cash
+ORD0009,21-06-2025,Customer_104,,Keyboard,2,106112,22971.19,Chennai,Debit Card
+ORD0010,25-12-2025,Customer_027,Clothing,T-Shirt,3,8970,2177.39,Pune,Credit Card
+ORD0011,19-08-2025,Customer_237,Furniture,Table,5,100870,22582.68,Nagpur,
+ORD0012,14-02-2025,Customer_062,Books,Power BI,5,10345,2921.68,Pune,Net Banking
+ORD0013,14-12-2025,Customer_217,Grocery,Snacks,0,5616,1414.45,Nagpur,UPI
+ORD0014,17-07-2025,Customer_200,Electronics,Laptop,3,186519,23537.82,Bengaluru,UPI
+ORD0015,29-06-2025,Customer_113,Books,Python Basics,3,5643,1069.49,Chennai,UPI
+ORD0016,10-05-2025,Customer_220,Furniture,Table,4,50596,10240.18,Chennai,Net Banking
+ORD0017,04-09-2025,Customer_068,Electronics,Laptop,3,142551,26831.42,Nagpur,Debit Card
+ORD0018,24-05-2025,Customer_097,Clothing,T-Shirt,5,2485,631.46,Pune,Cash
+ORD0019,08-05-2025,Customer_039,Clothing,Hoodie,3,5007,468.61,Mumbai,UPI
+ORD0020,24-05-2025,Customer_090,Clothing,Shoes,1,4361,467.23,Pune,Cash
+ORD0021,09-01-2025,Customer_233,Grocery,Rice,2,1004,209.11,Bengaluru,Debit Card
+ORD0022,11-09-2025,Customer_227,Clothing,Shoes,1,1948,423.2,Chennai,UPI
+ORD0023,10-06-2025,Customer_068,Clothing,T-Shirt,5,23665,2510.08,Pune,Net Banking
+ORD0024,07-02-2025,Customer_230,Grocery,Tea,1,519,57.61,Delhi,Debit Card
+ORD0025,04-02-2025,Customer_192,Clothing,Jacket,2,2518,302.65,Pune,UPI
+ORD0026,09-04-2025,Customer_188,Grocery,Snacks,5,1645,479.79,Pune,Cash
+ORD0027,24-04-2025,Customer_032,Books,Excel Guide,1,2145,145.01,Nagpur,Credit Card
+ORD0028,19-06-2025,Customer_247,Clothing,Jeans,2,6950,972.12,Mumbai,Debit Card
+ORD0029,23-05-2025,Customer_092,Furniture,Chair,5,65195,17710.5,Mumbai,Credit Card
+ORD0030,04-11-2025,Customer_225,Clothing,T-Shirt,2,4030,507.04,Delhi,Cash
+ORD0031,04-11-2025,Customer_144,Grocery,Snacks,5,4665,1049.06,Delhi,Credit Card
+ORD0032,07-05-2025,Customer_137,Grocery,Coffee,3,2370,166.42,Hyderabad,Net Banking
+ORD0033,11-07-2025,Customer_191,Electronics,Headphones,2,35392,10218.25,Delhi,Net Banking
+ORD0034,04-04-2025,Customer_238,Clothing,Shoes,2,6088,374.42,Chennai,Cash
+ORD0035,07-09-2025,Customer_010,Books,Power BI,2,4014,852.75,Chennai,Net Banking
+ORD0036,21-11-2025,Customer_237,Grocery,Coffee,4,1964,518.74,Hyderabad,Credit Card
+ORD0037,28-06-2025,Customer_171,Electronics,Keyboard,3,201561,33169.53,Delhi,Cash
+ORD0038,03-12-2025,Customer_090,Clothing,T-Shirt,1,4407,972.85,Delhi,Credit Card
+ORD0039,16-03-2025,Customer_157,,Desk,2,,4397.6,Hyderabad,UPI
+ORD0040,09-04-2025,Customer_240,Books,Excel Guide,1,2489,482.82,Hyderabad,Credit Card
+ORD0041,03-03-2025,Customer_084,Electronics,Monitor,4,148032,21380.59,Pune,Net Banking
+ORD0042,21-02-2025,Customer_083,Clothing,Jacket,1,4471,1285.48,Mumbai,Net Banking
+ORD0043,19-04-2025,Customer_181,Books,Data Analytics,4,5668,1402.29,Mumbai,Credit Card
+ORD0044,15-03-2025,Customer_186,Furniture,Sofa,3,29772,2552.89,Hyderabad,UPI
+ORD0045,05-12-2025,Customer_136,Books,Excel Guide,2,3580,638.43,Delhi,UPI
+ORD0046,21-07-2025,Customer_090,Grocery,Rice,1,494,111.78,Bengaluru,Debit Card
+ORD0047,27-12-2025,Customer_167,Books,Excel Guide,2,1410,111.93,Pune,Debit Card
+ORD0048,27-02-2025,Customer_044,Books,Power BI,1,1183,188.2,Delhi,Net Banking
+ORD0049,14-01-2025,Customer_143,Books,Excel Guide,5,11720,2430.14,Nagpur,UPI
+ORD0050,05-06-2025,,Books,Data Analytics,1,1217,180.88,Mumbai,Cash
+ORD0051,25-05-2025,Customer_201,Grocery,Coffee,2,1836,211.12,Pune,Net Banking
+ORD0052,16-07-2025,Customer_047,Grocery,Oil,4,1756,270.7,Pune,Credit Card
+ORD0053,26-06-2025,Customer_011,Furniture,Desk,3,6045,1794.27,Delhi,Credit Card
+ORD0054,07-11-2025,Customer_006,Electronics,Smartphone,3,142020,16808.32,Hyderabad,UPI
+ORD0055,25-05-2025,Customer_085,Books,Excel Guide,3,2889,758.11,Chennai,UPI
+ORD0056,14-12-2025,Customer_095,Electronics,Smartphone,5,89500,18305.62,Nagpur,Credit Card
+ORD0057,10-08-2025,Customer_057,Furniture,Desk,3,16089,3060.68,Pune,Net Banking
+ORD0058,04-11-2025,Customer_249,Books,SQL Guide,3,4824,768.79,Chennai,UPI
+ORD0059,06-12-2025,Customer_216,Grocery,Coffee,3,699,169.32,Delhi,Credit Card
+ORD0060,02-12-2025,Customer_095,Books,SQL Guide,5,5050,833.4,Bengaluru,Cash
+ORD0061,19-06-2025,Customer_061,Grocery,Rice,3,330,44.97,Chennai,Net Banking
+ORD0062,28-10-2025,Customer_155,Electronics,Monitor,1,17707,3113.85,Pune,Credit Card
+ORD0063,08-01-2025,Customer_113,Electronics,Laptop,3,60186,16074.19,Bengaluru,Net Banking
+ORD0064,07-01-2025,Customer_003,Grocery,Coffee,4,2860,248.63,Nagpur,Debit Card
+ORD0065,30-09-2025,Customer_231,Grocery,Oil,2,154,29.41,Chennai,Credit Card
+ORD0066,26-05-2025,Customer_111,Grocery,Rice,1,1467,311.31,Hyderabad,Credit Card
+ORD0067,16-10-2025,Customer_181,Electronics,Keyboard,3,182412,24185.48,Chennai,Net Banking
+ORD0068,18-11-2025,Customer_212,Grocery,Tea,1,278,21.69,Hyderabad,Debit Card
+ORD0069,13-05-2025,Customer_070,Grocery,Rice,3,4395,1141.14,Mumbai,Cash
+ORD0070,07-02-2025,Customer_037,Clothing,Shoes,1,4954,1198.59,Chennai,Debit Card
+ORD0071,18-05-2025,Customer_172,Grocery,Oil,3,2217,185.35,Mumbai,Net Banking
+ORD0072,07-02-2025,Customer_247,Furniture,Table,1,11568,,Bengaluru,UPI
+ORD0073,16-11-2025,Customer_150,Books,Power BI,4,7280,2050.14,Hyderabad,Net Banking
+ORD0074,19-03-2025,Customer_154,Clothing,T-Shirt,5,8070,879.01,Chennai,Cash
+ORD0075,23-05-2025,Customer_225,Electronics,Monitor,2,88206,20896.21,Pune,UPI
+ORD0076,28-06-2025,Customer_200,Electronics,Headphones,5,186275,24812.57,Mumbai,Cash
+ORD0077,07-04-2025,Customer_229,Books,Python Basics,4,9816,863.01,Bengaluru,UPI
+ORD0078,04-08-2025,Customer_180,Grocery,Coffee,2,2464,644.61,Nagpur,Net Banking
+ORD0079,26-10-2025,Customer_027,Books,Excel Guide,4,8820,1637.71,Delhi,Cash
+ORD0080,14-04-2025,Customer_060,Clothing,Jeans,2,4976,567.28,Bengaluru,
+ORD0081,20-02-2025,Customer_029,Grocery,Snacks,4,4716,677.26,Chennai,UPI
+ORD0082,01-01-2025,Customer_063,Clothing,T-Shirt,5,9725,2522.4,Chennai,Debit Card
+ORD0083,31-03-2025,Customer_075,Books,Python Basics,5,4120,632.94,Chennai,Credit Card
+ORD0084,01-06-2025,Customer_025,Furniture,Bookshelf,2,15566,1326.45,Nagpur,Cash
+ORD0085,03-12-2025,Customer_084,Books,Python Basics,1,1742,311.46,Pune,UPI
+ORD0086,30-07-2025,Customer_062,Grocery,Snacks,5,6070,1441.57,Chennai,Net Banking
+ORD0087,10-08-2025,Customer_166,Electronics,Monitor,5,96245,16387.83,Bengaluru,Cash
+ORD0088,19-11-2025,Customer_216,Electronics,Monitor,3,160209,30108.18,Nagpur,Debit Card
+ORD0089,15-10-2025,Customer_120,Books,Python Basics,5,,3555.78,Chennai,Debit Card
+ORD0090,22-04-2025,Customer_125,Grocery,Snacks,5,4120,1079.57,Bengaluru,Cash
+ORD0091,29-04-2025,Customer_140,Books,Power BI,2,3318,467.06,Hyderabad,Net Banking
+ORD0092,21-07-2025,Customer_158,Books,Python Basics,2,3274,278.38,Bengaluru,UPI
+ORD0093,03-09-2025,Customer_022,Furniture,Bookshelf,,13808,1580.63,Bengaluru,Cash
+ORD0094,02-06-2025,Customer_230,Furniture,Desk,5,32375,6104.13,Mumbai,Cash
+ORD0095,25-08-2025,Customer_249,Books,SQL Guide,5,2085,234.94,Delhi,Credit Card
+ORD0096,03-11-2025,Customer_181,Books,Python Basics,2,4190,982.59,Hyderabad,Debit Card
+ORD0097,20-08-2025,Customer_227,Furniture,Sofa,5,113995,26262.53,Chennai,Credit Card
+ORD0098,20-07-2025,Customer_154,Books,Python Basics,2,1228,108.88,Mumbai,Net Banking
+ORD0099,08-02-2025,Customer_035,Electronics,Laptop,1,55712,8841.88,Bengaluru,Credit Card
+ORD0100,07-11-2025,Customer_241,Books,Power BI,4,5160,1483.81,Nagpur,Cash
+ORD0101,30-03-2025,Customer_012,Clothing,Hoodie,1,2721,803.09,Nagpur,Debit Card
+ORD0102,01-12-2025,Customer_117,Furniture,Chair,5,29365,3765,Nagpur,UPI
+ORD0103,13-04-2025,Customer_017,Clothing,Jeans,3,8157,1473.22,Chennai,Debit Card
+ORD0104,29-07-2025,Customer_161,Grocery,Snacks,5,440,94.78,Delhi,Credit Card
+ORD0105,01-10-2025,Customer_160,Grocery,Coffee,3,900,86.73,Bengaluru,Debit Card
+ORD0106,25-12-2025,Customer_084,Grocery,Oil,1,1312,95.68,Delhi,UPI
+ORD0107,14-03-2025,Customer_143,Electronics,Smartphone,5,173665,9459.27,Pune,UPI
+ORD0108,15-11-2025,Customer_046,Grocery,Snacks,3,2964,,Bengaluru,Net Banking
+ORD0109,14-08-2025,Customer_057,Furniture,Chair,4,92296,9937.28,Mumbai,UPI
+ORD0110,09-04-2025,Customer_020,Electronics,Headphones,3,44997,12191.78,Mumbai,UPI
+ORD0111,30-03-2025,Customer_073,Books,Data Analytics,2,2060,218.27,Hyderabad,Net Banking
+ORD0112,19-06-2025,Customer_009,Furniture,Bookshelf,1,11874,3123.44,Nagpur,UPI
+ORD0113,31-03-2025,Customer_146,Books,Data Analytics,3,4572,1055.47,Chennai,Net Banking
+ORD0114,05-07-2025,Customer_067,Grocery,Oil,4,5496,1088.77,Mumbai,Debit Card
+ORD0115,14-02-2025,Customer_089,Books,Excel Guide,1,1954,260.86,Delhi,Credit Card
+ORD0116,09-06-2025,Customer_107,Grocery,Tea,4,3500,897.59,Delhi,Credit Card
+ORD0117,11-08-2025,Customer_098,Grocery,Coffee,5,5930,1233.16,Hyderabad,Net Banking
+ORD0118,06-02-2025,Customer_221,Clothing,Jacket,2,8404,797.32,Chennai,Cash
+ORD0119,12-07-2025,Customer_022,Grocery,Snacks,2,1146,260.31,Mumbai,Debit Card
+ORD0120,07-01-2025,Customer_029,Furniture,Desk,5,64695,15498.71,Bengaluru,UPI
+ORD0121,08-02-2025,Customer_015,Clothing,Jacket,2,3506,548.85,Nagpur,Net Banking
+ORD0122,24-08-2025,Customer_184,Books,Data Analytics,4,7248,1935.31,Hyderabad,Net Banking
+ORD0123,15-01-2025,Customer_162,Books,,3,5340,813.46,Delhi,Debit Card
+ORD0124,05-11-2025,Customer_008,Electronics,Laptop,4,108740,29050.52,Nagpur,Debit Card
+ORD0125,25-07-2025,Customer_199,Furniture,Table,3,55029,9375.87,Pune,Cash
+ORD0126,05-03-2025,Customer_205,Grocery,Snacks,1,435,68.87,Pune,Net Banking
+ORD0127,28-06-2025,Customer_088,Furniture,Desk,3,29760,,Pune,UPI
+ORD0128,19-12-2025,Customer_002,Grocery,Rice,4,3940,1124.12,Pune,UPI
+ORD0129,23-05-2025,Customer_226,Electronics,Monitor,1,57785,12849.43,Mumbai,Cash
+ORD0130,23-07-2025,Customer_008,Electronics,Smartphone,5,252930,31542.64,Mumbai,Cash
+ORD0131,03-01-2025,Customer_127,Grocery,Tea,3,4389,715.76,Pune,Cash
+ORD0132,24-02-2025,Customer_238,Furniture,Bookshelf,2,-500,2680.24,Hyderabad,Net Banking
+ORD0133,11-05-2025,Customer_156,Books,Excel Guide,3,1683,494.29,Mumbai,Debit Card
+ORD0134,01-08-2025,Customer_159,Clothing,Hoodie,5,3260,304.97,Mumbai,Net Banking
+ORD0135,15-04-2025,Customer_164,Grocery,Oil,4,804,143.51,Mumbai,Net Banking
+ORD0136,03-09-2025,Customer_125,Furniture,Table,2,24342,4821.85,Hyderabad,Debit Card
+ORD0137,14-01-2025,Customer_078,Books,SQL Guide,5,3635,345.04,Mumbai,Net Banking
+ORD0138,25-03-2025,Customer_130,Books,Excel Guide,1,753,146.72,Nagpur,UPI
+ORD0139,28-10-2025,Customer_151,Clothing,T-Shirt,1,2346,194.06,Nagpur,Debit Card
+ORD0140,17-04-2025,Customer_165,Furniture,Bookshelf,2,20944,3033.52,Nagpur,Net Banking
+ORD0141,08-09-2025,Customer_189,Grocery,Oil,1,1440,272.93,Hyderabad,Credit Card
+ORD0142,28-06-2025,Customer_206,Furniture,Chair,5,81800,10555.39,Hyderabad,Credit Card
+ORD0143,03-07-2025,Customer_239,Grocery,Oil,2,532,103.75,Bengaluru,Credit Card
+ORD0144,21-09-2025,Customer_157,Grocery,Snacks,5,2120,205.83,Chennai,Net Banking
+ORD0145,11-12-2025,Customer_046,Furniture,Chair,2,33008,2583.78,Hyderabad,UPI
+ORD0146,04-03-2025,Customer_073,Electronics,Smartphone,5,215435,43353.81,Pune,UPI
+ORD0147,19-01-2025,Customer_198,Electronics,Monitor,1,66824,18805.52,Mumbai,Credit Card
+ORD0148,01-08-2025,Customer_143,Books,Python Basics,3,3213,682.02,Pune,Cash
+ORD0149,12-04-2025,Customer_218,Furniture,Sofa,3,19776,2834.16,Bengaluru,Debit Card
+ORD0150,03-06-2025,Customer_153,Furniture,Desk,1,7471,421.44,Hyderabad,Net Banking
+ORD0151,30-12-2025,Customer_123,Furniture,Sofa,4,48088,11383.34,Bengaluru,Net Banking
+ORD0152,02-10-2025,Customer_034,Books,Data Analytics,5,2865,812.54,Chennai,Net Banking
+ORD0153,18-03-2025,Customer_132,Grocery,Oil,4,5972,895.66,Mumbai,UPI
+ORD0154,05-02-2025,Customer_084,Clothing,Shoes,2,7908,902.62,Hyderabad,UPI
+ORD0155,09-01-2025,Customer_015,Grocery,Oil,2,1550,165.88,Mumbai,Credit Card
+ORD0156,30-08-2025,Customer_069,Electronics,Monitor,,69768,16860.42,Nagpur,UPI
+ORD0157,11-01-2025,Customer_138,Clothing,Shoes,2,1922,195.17,Pune,Net Banking
+ORD0158,29-10-2025,Customer_019,Books,Python Basics,1,1248,168.82,Hyderabad,Credit Card
+ORD0159,12-11-2025,Customer_130,Furniture,Sofa,4,,11213.91,Hyderabad,Net Banking
+ORD0160,22-11-2025,Customer_130,Grocery,Tea,5,580,77.29,Nagpur,Cash
+ORD0161,05-02-2025,Customer_197,Furniture,Chair,3,45327,8638.16,Delhi,Net Banking
+ORD0162,06-10-2025,Customer_092,Electronics,Headphones,1,69419,10109.6,Bengaluru,Net Banking
+ORD0163,07-02-2025,Customer_244,Grocery,Snacks,1,849,171.6,Mumbai,Net Banking
+ORD0164,03-06-2025,Customer_196,,Rice,2,1768,212.03,Mumbai,Debit Card
+ORD0165,07-06-2025,Customer_216,Clothing,Shoes,5,4300,890.05,Mumbai,Debit Card
+ORD0166,23-09-2025,Customer_025,Grocery,Rice,5,4900,946.98,Mumbai,UPI
+ORD0167,21-05-2025,Customer_117,Books,Python Basics,4,8840,2265.69,Mumbai,Net Banking
+ORD0168,26-05-2025,Customer_221,Furniture,Table,1,14891,2628.79,Hyderabad,Net Banking
+ORD0169,27-06-2025,Customer_159,Clothing,Jeans,4,9012,1542.41,Nagpur,UPI
+ORD0170,09-09-2025,Customer_097,Clothing,T-Shirt,3,,419.04,Hyderabad,Cash
+ORD0171,27-06-2025,Customer_063,Electronics,Monitor,4,170316,44623.47,Delhi,Cash
+ORD0172,03-03-2025,Customer_219,Books,Data Analytics,3,2277,255.35,Delhi,Net Banking
+ORD0173,13-06-2025,Customer_209,Furniture,Desk,5,118700,34410.44,Bengaluru,UPI
+ORD0174,21-08-2025,Customer_221,Grocery,Tea,5,3365,568.7,Hyderabad,Net Banking
+ORD0175,01-03-2025,Customer_048,Furniture,Sofa,2,2032,451.17,Delhi,UPI
+ORD0176,21-09-2025,Customer_187,Furniture,Desk,2,39326,6837.34,Chennai,UPI
+ORD0177,28-03-2025,Customer_043,Electronics,Keyboard,5,242420,14425.31,Pune,Net Banking
+ORD0178,30-07-2025,Customer_135,Clothing,Jacket,1,4627,1354.27,Bengaluru,Cash
+ORD0179,21-04-2025,Customer_224,Clothing,Jacket,2,4674,729.49,Hyderabad,UPI
+ORD0180,09-07-2025,Customer_114,Electronics,Laptop,2,103558,18907.16,Mumbai,Net Banking
+ORD0181,14-08-2025,Customer_011,Grocery,Snacks,3,627,127.99,Mumbai,UPI
+ORD0182,15-10-2025,Customer_179,Furniture,Chair,1,22325,1794.38,Chennai,UPI
+ORD0183,29-05-2025,Customer_141,Books,Data Analytics,2,3012,560.24,Chennai,Net Banking
+ORD0184,10-10-2025,Customer_050,Grocery,Tea,3,2457,,Nagpur,Debit Card
+ORD0185,19-01-2025,Customer_023,Grocery,Oil,3,2235,278.01,Delhi,Cash
+ORD0186,12-08-2025,Customer_064,Electronics,Monitor,2,131790,15745.68,Mumbai,Credit Card
+ORD0187,27-03-2025,Customer_234,Clothing,T-Shirt,2,2444,601.1,Mumbai,Credit Card
+ORD0188,11-04-2025,Customer_186,Grocery,Rice,1,,286.39,Hyderabad,Net Banking
+ORD0189,21-07-2025,Customer_038,Grocery,Snacks,2,1742,164.78,Chennai,Cash
+ORD0190,17-08-2025,Customer_080,Grocery,Rice,5,6470,1493.61,Mumbai,Cash
+ORD0191,01-06-2025,Customer_109,Grocery,Coffee,2,2784,242.9,Hyderabad,Credit Card
+ORD0192,15-11-2025,Customer_116,Books,,3,4368,475.96,Pune,Debit Card
+ORD0193,28-08-2025,Customer_047,Grocery,Tea,3,630,131.7,Bengaluru,Cash
+ORD0194,17-04-2025,Customer_113,Clothing,T-Shirt,2,1598,145.93,Chennai,Net Banking
+ORD0195,15-12-2025,Customer_064,Electronics,Smartphone,5,120420,32294.54,Delhi,Cash
+ORD0196,09-05-2025,Customer_024,Electronics,Monitor,2,52158,12099.86,Pune,Cash
+ORD0197,30-12-2025,Customer_106,Electronics,Keyboard,4,151404,8077.5,Chennai,Cash
+ORD0198,28-10-2025,Customer_228,Clothing,Shoes,2,3882,257.54,Bengaluru,Cash
+ORD0199,05-09-2025,Customer_203,Furniture,Desk,3,46593,2583.85,Hyderabad,Net Banking
+ORD0200,11-05-2025,Customer_087,Furniture,Desk,4,25728,2936.4,Mumbai,Net Banking
+ORD0201,23-11-2025,Customer_086,Electronics,Smartphone,3,189276,20125.57,Nagpur,UPI
+ORD0202,17-07-2025,Customer_098,Electronics,Monitor,5,41605,7733.73,Pune,Credit Card
+ORD0203,05-05-2025,Customer_167,Books,Excel Guide,2,694,184.25,Chennai,Cash
+ORD0204,04-10-2025,Customer_020,Grocery,Tea,2,1220,164.63,Mumbai,Cash
+ORD0205,07-03-2025,Customer_153,Grocery,Oil,4,2916,693.08,Chennai,Debit Card
+ORD0206,16-07-2025,Customer_051,Grocery,Rice,2,1300,95.36,Bengaluru,Cash
+ORD0207,26-08-2025,Customer_104,Furniture,Table,4,45612,6795.85,Mumbai,Credit Card
+ORD0208,09-02-2025,Customer_230,Grocery,Snacks,4,1232,146.89,Pune,Cash
+ORD0209,17-05-2025,Customer_012,Electronics,Monitor,4,71484,18887.39,Bengaluru,UPI
+ORD0210,04-09-2025,Customer_128,Books,Excel Guide,5,8895,1395.38,Bengaluru,Net Banking
+ORD0211,22-09-2025,Customer_116,Electronics,Smartphone,1,27619,2674.98,Chennai,Credit Card
+ORD0212,04-08-2025,Customer_226,Clothing,Shoes,4,13160,1691.26,Chennai,Debit Card
+ORD0213,12-06-2025,Customer_180,Grocery,Snacks,2,2582,593.26,Mumbai,UPI
+ORD0214,21-11-2025,Customer_108,Clothing,Jeans,2,5252,725.27,Bengaluru,Debit Card
+ORD0215,16-02-2025,Customer_167,Clothing,T-Shirt,4,5556,283.1,Chennai,UPI
+ORD0216,30-10-2025,Customer_038,Grocery,Snacks,1,689,93.08,Nagpur,Net Banking
+ORD0217,09-09-2025,Customer_077,Clothing,T-Shirt,5,3795,955.77,Nagpur,Credit Card
+ORD0218,24-11-2025,Customer_190,Clothing,T-Shirt,3,5298,1410.01,Bengaluru,Debit Card
+ORD0219,24-03-2025,Customer_110,Clothing,Shoes,1,4665,381.89,Bengaluru,Debit Card
+ORD0220,02-10-2025,Customer_175,Furniture,Bookshelf,1,6075,1563.39,Hyderabad,Net Banking
+ORD0221,05-11-2025,Customer_227,Books,Power BI,1,2386,611.14,Pune,Debit Card
+ORD0222,03-03-2025,Customer_113,Electronics,Keyboard,3,27177,1895.39,Chennai,Cash
+ORD0223,21-06-2025,Customer_161,Clothing,Jacket,2,3296,346.27,Delhi,Net Banking
+ORD0224,28-11-2025,Customer_182,Electronics,Monitor,1,47203,8466.41,Hyderabad,
+ORD0225,14-12-2025,Customer_028,Clothing,Jeans,4,7492,819.31,Hyderabad,
+ORD0226,28-03-2025,Customer_166,Books,Data Analytics,4,6536,1154.04,Chennai,UPI
+ORD0227,03-04-2025,Customer_109,Furniture,Chair,5,49605,14528.47,Pune,Debit Card
+ORD0228,12-02-2025,Customer_148,Clothing,Hoodie,4,9584,1004.09,Hyderabad,UPI
+ORD0229,01-11-2025,,Furniture,Sofa,5,68025,17289.95,Pune,Net Banking
+ORD0230,14-02-2025,Customer_001,Clothing,Jacket,1,1817,513.04,Hyderabad,Debit Card
+ORD0231,08-01-2025,Customer_153,Grocery,Oil,5,3255,939.09,Bengaluru,Net Banking
+ORD0232,27-05-2025,Customer_239,Electronics,Keyboard,2,95074,13525.54,Hyderabad,Cash
+ORD0233,03-11-2025,Customer_075,Electronics,Laptop,4,180836,38267.16,Delhi,Credit Card
+ORD0234,15-06-2025,Customer_131,Furniture,Bookshelf,1,18154,5003.48,Chennai,Credit Card
+ORD0235,18-02-2025,Customer_127,Electronics,Laptop,4,12328,995.5,Nagpur,UPI
+ORD0236,02-05-2025,Customer_030,Electronics,Keyboard,5,91570,11590.78,Hyderabad,Cash
+ORD0237,09-06-2025,Customer_250,Furniture,Bookshelf,3,23970,6529.74,Bengaluru,UPI
+ORD0238,16-02-2025,Customer_148,Grocery,Snacks,1,56,13.47,Bengaluru,Net Banking
+ORD0239,05-03-2025,Customer_069,Furniture,Table,2,37652,2835.76,Mumbai,Cash
+ORD0240,08-03-2025,Customer_075,Grocery,Rice,4,3544,1043.22,Delhi,Cash
+ORD0241,02-05-2025,Customer_125,Furniture,Bookshelf,3,59079,4874.72,Delhi,Credit Card
+ORD0242,06-05-2025,Customer_244,Grocery,Oil,3,750,91.58,Pune,Net Banking
+ORD0243,09-12-2025,Customer_179,Grocery,,5,3615,869.32,Bengaluru,Credit Card
+ORD0244,25-12-2025,Customer_068,,Sofa,3,36543,10656.1,Bengaluru,UPI
+ORD0245,07-09-2025,Customer_019,Grocery,Oil,3,459,88.29,Delhi,Net Banking
+ORD0246,06-11-2025,Customer_173,Grocery,Oil,1,113,22.58,Nagpur,Cash
+ORD0247,17-01-2025,Customer_115,Books,Data Analytics,4,5068,1449.5,Bengaluru,Credit Card
+ORD0248,06-09-2025,Customer_243,Grocery,Snacks,4,1792,318.65,Mumbai,UPI
+ORD0249,17-02-2025,Customer_073,Clothing,Hoodie,3,12366,3573.92,Hyderabad,Net Banking
+ORD0250,08-07-2025,Customer_031,Electronics,Laptop,1,15872,4648.64,Nagpur,Credit Card
+ORD0251,13-07-2025,Customer_169,Books,Data Analytics,3,1578,220.41,Bengaluru,
+ORD0252,06-03-2025,Customer_036,Clothing,Jacket,2,9016,483.07,Pune,Net Banking
+ORD0253,13-06-2025,Customer_035,Electronics,Monitor,5,217635,52565.16,Mumbai,UPI
+ORD0254,02-03-2025,Customer_083,Furniture,Table,3,63117,4296.95,Bengaluru,Credit Card
+ORD0255,17-10-2025,Customer_039,Electronics,Headphones,2,114998,14239.35,Bengaluru,Debit Card
+ORD0256,02-10-2025,Customer_057,Books,Excel Guide,1,1806,187.2,Pune,UPI
+ORD0257,01-12-2025,Customer_022,Furniture,Desk,4,4636,583.2,Chennai,Cash
+ORD0258,29-08-2025,Customer_250,Books,Data Analytics,2,3978,599.13,Delhi,Credit Card
+ORD0259,06-03-2025,Customer_107,Furniture,Chair,2,6874,518.8,Bengaluru,UPI
+ORD0260,22-04-2025,Customer_056,Clothing,Jeans,4,4472,1240.92,Hyderabad,Debit Card
+ORD0261,01-08-2025,Customer_149,Books,,2,2310,195.84,Bengaluru,Net Banking
+ORD0262,25-10-2025,Customer_145,Books,Python Basics,4,7984,1684.92,Delhi,Cash
+ORD0263,16-01-2025,Customer_137,Electronics,Smartphone,2,12310,1895.12,Pune,Debit Card
+ORD0264,28-01-2025,Customer_070,Electronics,Keyboard,5,291525,68406.16,Hyderabad,Cash
+ORD0265,28-04-2025,Customer_054,Books,Power BI,1,1798,116.01,Mumbai,Net Banking
+ORD0266,21-04-2025,Customer_102,Grocery,Oil,2,1834,281.36,Pune,Cash
+ORD0267,10-10-2025,Customer_246,Grocery,Oil,3,504,41.77,Delhi,Credit Card
+ORD0268,07-01-2025,Customer_244,Clothing,T-Shirt,2,7524,1766.31,Pune,Cash
+ORD0269,13-08-2025,Customer_215,Clothing,Hoodie,4,18808,,Pune,Net Banking
+ORD0270,06-08-2025,Customer_004,Clothing,Shoes,3,10728,1807.16,Mumbai,UPI
+ORD0271,18-07-2025,Customer_106,Books,Power BI,2,3604,383.27,Pune,Credit Card
+ORD0272,12-04-2025,Customer_216,Electronics,Headphones,3,169653,48664.76,Chennai,Cash
+ORD0273,14-08-2025,Customer_015,Electronics,Laptop,2,23666,3642.45,Delhi,Credit Card
+ORD0274,06-01-2025,Customer_093,Books,Excel Guide,2,4014,763.54,Hyderabad,Net Banking
+ORD0275,11-03-2025,Customer_169,Clothing,Shoes,1,2680,396.55,Hyderabad,Debit Card
+ORD0276,03-06-2025,Customer_134,Grocery,Tea,2,646,44.1,Hyderabad,Cash
+ORD0277,21-05-2025,Customer_106,Clothing,Hoodie,3,1632,390.58,Chennai,Cash
+ORD0278,13-02-2025,Customer_137,Electronics,Smartphone,1,46042,12145.96,Delhi,Credit Card
+ORD0279,19-06-2025,Customer_104,Grocery,Oil,4,5312,326.76,Mumbai,Debit Card
+ORD0280,04-06-2025,Customer_034,Books,Data Analytics,1,1711,255.72,Bengaluru,UPI
+ORD0281,23-04-2025,Customer_103,Electronics,Monitor,1,29282,8187.44,Bengaluru,Credit Card
+ORD0282,24-04-2025,Customer_001,Electronics,Headphones,5,28780,6163.46,Mumbai,Credit Card
+ORD0283,12-07-2025,Customer_145,Books,,4,1416,151.76,Chennai,Credit Card
+ORD0284,09-10-2025,Customer_115,Books,Python Basics,5,4550,815.24,Bengaluru,Net Banking
+ORD0285,30-08-2025,,Grocery,Coffee,5,4200,1143.33,Delhi,Net Banking
+ORD0286,07-10-2025,Customer_027,Electronics,Smartphone,4,87016,13257.15,Nagpur,Net Banking
+ORD0287,30-06-2025,Customer_248,Grocery,Coffee,5,5385,1448.41,Hyderabad,Net Banking
+ORD0288,18-05-2025,Customer_168,Books,Excel Guide,1,1599,101.79,Nagpur,Net Banking
+ORD0289,18-06-2025,Customer_197,Books,Power BI,3,5352,1124.77,Delhi,Credit Card
+ORD0290,16-01-2025,Customer_248,Furniture,Sofa,1,17589,2663.64,Chennai,Net Banking
+ORD0291,11-09-2025,Customer_009,Books,Python Basics,3,2076,243.42,Pune,Debit Card
+ORD0292,20-02-2025,Customer_036,Furniture,Chair,1,23138,5255.16,Pune,UPI
+ORD0293,08-09-2025,Customer_169,Furniture,Bookshelf,1,14689,1999.92,Delhi,UPI
+ORD0294,19-04-2025,Customer_183,Books,Power BI,4,5396,1175.05,Pune,UPI
+ORD0295,19-03-2025,Customer_058,Clothing,Jeans,4,2672,694.05,Pune,Credit Card
+ORD0296,13-01-2025,Customer_240,Books,Power BI,3,5178,1188.94,Chennai,Debit Card
+ORD0297,02-01-2025,Customer_120,Clothing,Shoes,3,12093,2494.27,Chennai,Debit Card
+ORD0298,24-11-2025,Customer_124,Electronics,Monitor,3,38067,4258.84,Pune,UPI
+ORD0299,30-11-2025,Customer_069,Grocery,Oil,3,3510,818.44,Chennai,Debit Card
+ORD0300,20-03-2025,Customer_215,Electronics,Headphones,1,26849,6610.64,Chennai,Debit Card
+ORD0301,03-03-2025,Customer_157,Books,Power BI,5,4090,216.24,Mumbai,UPI
+ORD0302,23-07-2025,Customer_071,Furniture,Desk,5,14940,2041.27,Bengaluru,Debit Card
+ORD0303,22-10-2025,Customer_219,Furniture,Desk,1,6633,570.34,Delhi,Cash
+ORD0304,23-09-2025,Customer_073,Clothing,T-Shirt,0,10856,1223.72,Pune,UPI
+ORD0305,05-11-2025,Customer_079,Clothing,Shoes,3,14424,2340.6,Bengaluru,Debit Card
+ORD0306,17-05-2025,Customer_164,Books,Data Analytics,4,5364,1523.73,Bengaluru,UPI
+ORD0307,23-02-2025,Customer_178,Furniture,Table,1,13905,724.17,Bengaluru,
+ORD0308,12-02-2025,Customer_121,Clothing,Hoodie,1,2726,292.48,Pune,Credit Card
+ORD0309,04-03-2025,Customer_225,Furniture,Table,5,59980,16667.26,Pune,Net Banking
+ORD0310,04-04-2025,Customer_048,Clothing,Jeans,3,4911,975.82,Nagpur,Credit Card
+ORD0311,01-04-2025,Customer_238,Furniture,Bookshelf,4,46232,8247.92,Bengaluru,Credit Card
+ORD0312,04-12-2025,Customer_056,Electronics,Laptop,5,149305,39559.25,Bengaluru,Net Banking
+ORD0313,02-04-2025,Customer_018,Furniture,Sofa,2,12614,3583.26,Mumbai,Debit Card
+ORD0314,26-07-2025,Customer_129,Furniture,Chair,5,46630,2661.54,Nagpur,Debit Card
+ORD0315,21-01-2025,Customer_242,Furniture,Chair,1,14652,1412.62,Nagpur,Debit Card
+ORD0316,04-10-2025,Customer_061,Books,Power BI,3,2985,548.91,Nagpur,Credit Card
+ORD0317,10-11-2025,Customer_039,Grocery,Rice,5,3355,481.04,Pune,UPI
+ORD0318,18-09-2025,Customer_170,Books,Excel Guide,1,911,164.34,Nagpur,UPI
+ORD0319,09-06-2025,Customer_046,Grocery,Tea,1,1358,207.47,Hyderabad,Net Banking
+ORD0320,28-07-2025,,Electronics,Monitor,2,84810,6012.06,Bengaluru,Credit Card
+ORD0321,01-06-2025,Customer_072,Clothing,Jeans,2,7822,1047.51,Bengaluru,Net Banking
+ORD0322,03-09-2025,Customer_129,Electronics,Laptop,1,49970,7644.89,Mumbai,Net Banking
+ORD0323,07-01-2025,Customer_058,Books,Python Basics,5,7990,1927.19,Pune,Net Banking
+ORD0324,06-11-2025,Customer_156,Electronics,Laptop,1,39882,10783.73,Pune,UPI
+ORD0325,27-05-2025,Customer_194,Books,Python Basics,1,967,171.78,Pune,Net Banking
+ORD0326,12-08-2025,Customer_136,Clothing,Jacket,5,12020,1212.44,Chennai,Cash
+ORD0327,03-05-2025,Customer_234,Electronics,Keyboard,4,47456,14203.37,Delhi,Debit Card
+ORD0328,23-08-2025,Customer_130,Clothing,Jacket,3,9570,498.51,Chennai,UPI
+ORD0329,16-05-2025,Customer_201,Electronics,Keyboard,4,74756,4979.93,Mumbai,Credit Card
+ORD0330,08-08-2025,Customer_134,Books,Excel Guide,2,1664,358.79,Delhi,Credit Card
+ORD0331,24-09-2025,Customer_054,Electronics,Smartphone,5,233565,35908.94,Bengaluru,UPI
+ORD0332,22-03-2025,Customer_218,Books,Data Analytics,2,1288,124.91,Mumbai,Credit Card
+ORD0333,10-08-2025,Customer_061,Grocery,Tea,2,222,46.44,Pune,Net Banking
+ORD0334,26-07-2025,Customer_132,Grocery,Oil,2,1834,395.21,Nagpur,Cash
+ORD0335,06-04-2025,Customer_163,Furniture,Sofa,4,70176,10793.79,Nagpur,Net Banking
+ORD0336,15-09-2025,Customer_008,Grocery,Coffee,1,504,109.21,Bengaluru,UPI
+ORD0337,12-06-2025,Customer_095,Books,Data Analytics,4,6896,2064.71,Nagpur,Net Banking
+ORD0338,31-10-2025,Customer_245,Books,Python Basics,3,6732,359.65,Bengaluru,Credit Card
+ORD0339,18-05-2025,Customer_083,Electronics,Keyboard,3,74379,19792.87,Pune,Cash
+ORD0340,09-12-2025,Customer_152,Books,Excel Guide,3,4647,893.95,Bengaluru,Credit Card
+ORD0341,08-07-2025,Customer_146,Grocery,Oil,3,3261,936.89,Bengaluru,Credit Card
+ORD0342,05-12-2025,Customer_065,Clothing,Hoodie,4,3480,234.73,Nagpur,Cash
+ORD0343,28-02-2025,Customer_043,Electronics,Keyboard,2,48540,11881.41,Nagpur,Cash
+ORD0344,18-08-2025,Customer_066,Grocery,Tea,4,4088,789.6,Hyderabad,Credit Card
+ORD0345,06-12-2025,Customer_116,Clothing,Shoes,3,14073,3925.21,Nagpur,Debit Card
+ORD0346,27-08-2025,Customer_223,Books,Data Analytics,3,6234,1710.24,Nagpur,UPI
+ORD0347,11-01-2025,Customer_098,,Power BI,4,4696,334.71,Mumbai,Cash
+ORD0348,23-10-2025,Customer_236,Furniture,Desk,3,11325,3306.22,Nagpur,Debit Card
+ORD0349,27-03-2025,Customer_004,Books,Power BI,2,570,58.5,Nagpur,Credit Card
+ORD0350,08-05-2025,Customer_238,Furniture,Bookshelf,4,45340,11114.6,Bengaluru,Cash
+ORD0351,05-10-2025,Customer_141,Grocery,Rice,1,230,32.42,Pune,Credit Card
+ORD0352,07-08-2025,Customer_213,Clothing,,1,1826,260.87,Mumbai,Net Banking
+ORD0353,06-07-2025,Customer_089,Electronics,Keyboard,4,73672,16549.14,Chennai,Net Banking
+ORD0354,08-02-2025,Customer_072,Books,Python Basics,1,1880,283.3,Pune,Net Banking
+ORD0355,19-07-2025,Customer_247,Clothing,Shoes,5,9830,1193.63,Chennai,UPI
+ORD0356,04-11-2025,Customer_089,Clothing,Jeans,3,3378,454.04,Nagpur,UPI
+ORD0357,24-04-2025,Customer_177,Books,SQL Guide,4,3096,637.37,Hyderabad,Cash
+ORD0358,19-04-2025,Customer_023,Books,Python Basics,4,6404,1794.3,Chennai,Debit Card
+ORD0359,13-10-2025,Customer_103,Furniture,Bookshelf,5,103635,18470.92,Delhi,Credit Card
+ORD0360,20-07-2025,Customer_180,Books,SQL Guide,5,8700,1772.91,Mumbai,Cash
+ORD0361,08-04-2025,Customer_208,Books,Power BI,1,1317,74.07,Pune,Cash
+ORD0362,20-06-2025,Customer_095,Electronics,Monitor,1,55000,13073.08,Pune,UPI
+ORD0363,11-07-2025,Customer_243,Furniture,Sofa,5,53915,6982.66,Chennai,UPI
+ORD0364,05-06-2025,Customer_017,Electronics,Smartphone,3,72549,20553.22,Chennai,Debit Card
+ORD0365,27-02-2025,Customer_032,Grocery,Coffee,5,1130,185.21,Pune,UPI
+ORD0366,17-05-2025,Customer_111,Grocery,Snacks,3,777,221.25,Hyderabad,Net Banking
+ORD0367,26-12-2025,Customer_010,Electronics,Headphones,3,202827,42974.81,Bengaluru,Debit Card
+ORD0368,13-02-2025,Customer_026,Books,Data Analytics,2,1418,377.53,Nagpur,Credit Card
+ORD0369,29-05-2025,Customer_217,Furniture,Table,4,12920,1242.36,Hyderabad,UPI
+ORD0370,25-01-2025,Customer_021,Grocery,Oil,5,1495,349.04,Pune,Credit Card
+ORD0371,15-08-2025,Customer_214,Books,Python Basics,3,2337,178.69,Nagpur,
+ORD0372,05-01-2025,Customer_122,Furniture,,1,2008,502.49,Delhi,Net Banking
+ORD0373,07-07-2025,Customer_051,Books,Data Analytics,5,8935,2097.19,Chennai,Debit Card
+ORD0374,08-08-2025,Customer_122,Grocery,Snacks,4,3760,466.58,Chennai,UPI
+ORD0375,11-04-2025,Customer_111,Furniture,Sofa,2,5174,541.02,Pune,UPI
+ORD0376,27-07-2025,Customer_008,Electronics,Headphones,2,43368,11881.58,Chennai,UPI
+ORD0377,14-01-2025,Customer_239,Electronics,Headphones,5,48240,12553.36,Delhi,Net Banking
+ORD0378,27-02-2025,Customer_049,Clothing,Hoodie,1,1315,104.75,Nagpur,UPI
+ORD0379,30-09-2025,Customer_249,Furniture,Desk,5,63975,13102.7,Chennai,Net Banking
+ORD0380,12-06-2025,Customer_160,Grocery,Tea,3,4230,456.29,Mumbai,Cash
+ORD0381,27-08-2025,Customer_068,Books,Excel Guide,1,1401,300.57,Bengaluru,Cash
+ORD0382,08-06-2025,Customer_201,Grocery,Oil,2,370,108.1,Nagpur,Net Banking
+ORD0383,16-07-2025,Customer_117,Furniture,Table,3,6003,772.62,Delhi,Cash
+ORD0384,26-05-2025,Customer_015,Furniture,Bookshelf,5,57945,6535.75,Mumbai,UPI
+ORD0385,26-10-2025,Customer_145,Books,SQL Guide,4,4336,1114.88,Hyderabad,Cash
+ORD0386,04-09-2025,Customer_011,Electronics,Laptop,3,149484,22430.53,Delhi,Debit Card
+ORD0387,08-09-2025,Customer_233,Furniture,Bookshelf,1,3123,492.64,Pune,Credit Card
+ORD0388,25-01-2025,Customer_074,Clothing,Hoodie,5,22125,2051.74,Chennai,Credit Card
+ORD0389,11-01-2025,Customer_085,Electronics,Headphones,1,26733,2899.28,Delhi,Net Banking
+ORD0390,31-08-2025,Customer_018,Electronics,Headphones,4,192096,29775.08,Bengaluru,Net Banking
+ORD0391,03-09-2025,Customer_130,Clothing,Jeans,1,2645,506.66,Mumbai,Debit Card
+ORD0392,19-10-2025,Customer_213,Clothing,Jacket,4,8356,886.4,Delhi,Credit Card
+ORD0393,20-10-2025,Customer_029,Grocery,Snacks,5,5720,1531.01,Bengaluru,Cash
+ORD0394,12-10-2025,Customer_148,Grocery,Tea,5,1070,297.14,Pune,Cash
+ORD0395,14-11-2025,Customer_118,Furniture,Desk,5,87140,8570.99,Delhi,Cash
+ORD0396,19-02-2025,Customer_082,Grocery,Snacks,4,1960,427.82,Delhi,Cash
+ORD0397,08-06-2025,Customer_128,Clothing,Hoodie,2,4964,458.01,Bengaluru,UPI
+ORD0398,30-09-2025,Customer_096,Books,Excel Guide,3,1137,232.74,Chennai,Net Banking
+ORD0399,13-08-2025,Customer_203,Clothing,T-Shirt,3,12750,765.44,Hyderabad,UPI
+ORD0400,14-07-2025,Customer_012,Grocery,Oil,2,1160,253.41,Bengaluru,Credit Card
+ORD0401,23-10-2025,Customer_225,Clothing,T-Shirt,,4754,1060.56,Delhi,UPI
+ORD0402,09-06-2025,Customer_218,Furniture,Sofa,5,109735,32835.71,Pune,Credit Card
+ORD0403,01-03-2025,Customer_066,Grocery,Rice,4,2216,126.23,Pune,Debit Card
+ORD0404,20-04-2025,Customer_078,Grocery,Snacks,3,1719,96.56,Delhi,Credit Card
+ORD0405,06-04-2025,Customer_161,Furniture,Desk,4,26292,5294.43,Delhi,Cash
+ORD0406,14-04-2025,Customer_243,Grocery,Coffee,3,4419,952.11,Chennai,Cash
+ORD0407,09-12-2025,Customer_104,Electronics,Monitor,5,130280,35640.21,Bengaluru,Debit Card
+ORD0408,31-07-2025,Customer_035,Electronics,Monitor,3,65265,17856.58,Delhi,UPI
+ORD0409,09-12-2025,Customer_096,Books,Python Basics,2,3040,516.84,Bengaluru,Debit Card
+ORD0410,06-12-2025,Customer_070,Books,SQL Guide,3,1134,170.87,Delhi,Debit Card
+ORD0411,02-10-2025,Customer_102,Electronics,Smartphone,4,25576,6859.86,Bengaluru,Net Banking
+ORD0412,08-12-2025,Customer_043,Clothing,Hoodie,5,8995,1837.47,Bengaluru,Cash
+ORD0413,30-07-2025,Customer_240,Furniture,Desk,3,39546,9604.85,Nagpur,Debit Card
+ORD0414,18-08-2025,Customer_113,Grocery,Tea,2,1318,155.45,Mumbai,Cash
+ORD0415,13-11-2025,Customer_068,Electronics,Smartphone,3,94713,19912.59,Pune,Cash
+ORD0416,23-02-2025,Customer_185,Furniture,Table,3,66597,17202.08,Hyderabad,Cash
+ORD0417,26-01-2025,Customer_153,Clothing,T-Shirt,,5552,1623.02,Chennai,Net Banking
+ORD0418,27-07-2025,Customer_238,Clothing,T-Shirt,4,15672,4692.78,Chennai,Cash
+ORD0419,03-09-2025,Customer_244,Books,,1,1832,373.92,Mumbai,UPI
+ORD0420,02-11-2025,Customer_230,Furniture,Chair,2,37152,7447.18,Bengaluru,Cash
+ORD0421,17-09-2025,Customer_001,Electronics,Laptop,4,39684,8911.03,Nagpur,Credit Card
+ORD0422,26-05-2025,Customer_156,Electronics,Monitor,3,39126,10838.08,Hyderabad,Net Banking
+ORD0423,08-02-2025,Customer_233,Clothing,Jacket,3,11766,2809.53,Hyderabad,Debit Card
+ORD0424,12-12-2025,Customer_087,Furniture,Table,4,65796,14450.3,Mumbai,Net Banking
+ORD0425,04-06-2025,Customer_167,Grocery,Tea,5,6510,1872.49,Pune,Net Banking
+ORD0426,21-06-2025,Customer_182,Grocery,Oil,1,819,45.89,Mumbai,Debit Card
+ORD0427,08-04-2025,Customer_093,Clothing,Jeans,4,19900,2310.75,Chennai,Credit Card
+ORD0428,12-08-2025,Customer_220,Grocery,Coffee,1,193,35.76,Bengaluru,UPI
+ORD0429,03-05-2025,Customer_111,Electronics,Headphones,5,183460,12847.05,Bengaluru,Debit Card
+ORD0430,08-03-2025,Customer_136,Furniture,Table,5,-500,9384.98,Nagpur,Credit Card
+ORD0431,23-11-2025,Customer_102,Grocery,Snacks,3,174,48.61,Mumbai,UPI
+ORD0432,07-07-2025,Customer_154,Electronics,Monitor,4,143524,13271.92,Chennai,UPI
+ORD0433,11-11-2025,Customer_188,Grocery,Rice,3,3642,442.41,Nagpur,UPI
+ORD0434,19-11-2025,Customer_154,Grocery,Tea,3,2343,696.19,Chennai,Net Banking
+ORD0435,28-10-2025,Customer_114,Books,Excel Guide,1,1339,263.68,Nagpur,Cash
+ORD0436,12-07-2025,Customer_051,Books,SQL Guide,1,,293.37,Bengaluru,Debit Card
+ORD0437,09-04-2025,Customer_098,Furniture,Table,4,59404,17185.53,Nagpur,Debit Card
+ORD0438,26-03-2025,Customer_026,Books,Power BI,4,6848,1967.56,Delhi,UPI
+ORD0439,09-12-2025,Customer_207,Electronics,Laptop,3,184674,36647.66,Pune,Net Banking
+ORD0440,13-12-2025,Customer_134,Electronics,Smartphone,5,19795,1204.11,Bengaluru,UPI
+ORD0441,28-05-2025,Customer_101,Books,Excel Guide,1,1862,298.17,Chennai,Net Banking
+ORD0442,07-02-2025,Customer_134,Grocery,Rice,4,1384,383.37,Delhi,Debit Card
+ORD0443,10-12-2025,Customer_237,Furniture,Bookshelf,5,93160,17479.88,Bengaluru,UPI
+ORD0444,09-08-2025,Customer_147,Grocery,Rice,5,2700,348.35,Nagpur,Debit Card
+ORD0445,03-02-2025,Customer_089,Electronics,Smartphone,1,43424,4327.69,Delhi,Net Banking
+ORD0446,01-09-2025,Customer_018,Books,SQL Guide,1,1251,304.2,Hyderabad,Cash
+ORD0447,04-11-2025,Customer_069,Books,Python Basics,4,2084,277.58,Nagpur,Net Banking
+ORD0448,10-07-2025,Customer_110,Grocery,Coffee,2,2336,630.58,Pune,Net Banking
+ORD0449,15-03-2025,Customer_248,Clothing,Jacket,5,7435,1626.21,Pune,Cash
+ORD0450,03-10-2025,Customer_236,Furniture,Table,5,62345,13897.57,Nagpur,UPI
+ORD0451,09-04-2025,Customer_082,Books,SQL Guide,1,1855,262.93,Bengaluru,Cash
+ORD0452,27-12-2025,Customer_068,Books,Data Analytics,3,1179,298.31,Nagpur,UPI
+ORD0453,28-06-2025,Customer_072,Grocery,Tea,1,1217,142.21,Mumbai,Cash
+ORD0454,08-03-2025,Customer_134,Grocery,Tea,2,2160,480.77,Delhi,UPI
+ORD0455,08-07-2025,Customer_078,Electronics,Smartphone,2,90428,8525.71,Bengaluru,Credit Card
+ORD0456,06-06-2025,Customer_191,Books,Data Analytics,3,4800,398.02,Chennai,Cash
+ORD0457,18-08-2025,,Clothing,Jacket,3,2745,463.55,Hyderabad,UPI
+ORD0458,03-01-2025,Customer_116,Clothing,Jacket,2,1364,402.8,Nagpur,Debit Card
+ORD0459,25-07-2025,Customer_242,Grocery,Oil,5,5485,833.42,Nagpur,Debit Card
+ORD0460,10-08-2025,Customer_116,Furniture,Table,3,67356,5712.7,Pune,Net Banking
+ORD0461,11-07-2025,Customer_153,Electronics,Headphones,4,111028,29975.19,Chennai,Debit Card
+ORD0462,29-09-2025,Customer_050,Furniture,Chair,5,61785,15718.47,Mumbai,UPI
+ORD0463,10-03-2025,Customer_148,Clothing,T-Shirt,2,1792,468.45,Bengaluru,UPI
+ORD0464,08-09-2025,Customer_110,Books,Python Basics,5,8560,2039.1,Pune,Credit Card
+ORD0465,10-06-2025,Customer_028,Electronics,Laptop,1,1015,239.55,Mumbai,UPI
+ORD0466,22-10-2025,Customer_189,Grocery,Snacks,2,2182,351.4,Mumbai,UPI
+ORD0467,23-10-2025,Customer_070,Furniture,Bookshelf,2,9558,2836.09,Chennai,Credit Card
+ORD0468,28-11-2025,Customer_042,Electronics,Keyboard,1,32401,8576.23,Bengaluru,Debit Card
+ORD0469,24-03-2025,Customer_214,Grocery,Tea,1,585,39.22,Nagpur,UPI
+ORD0470,22-04-2025,Customer_146,Grocery,Tea,5,-500,950.12,Nagpur,Credit Card
+ORD0471,07-12-2025,Customer_221,Electronics,Laptop,3,106434,6458.94,Chennai,Net Banking
+ORD0472,26-01-2025,Customer_080,Electronics,Smartphone,1,56314,9613.52,Hyderabad,UPI
+ORD0473,29-10-2025,Customer_237,Grocery,Coffee,3,4392,536.89,Hyderabad,Debit Card
+ORD0474,27-02-2025,Customer_198,Furniture,Desk,2,36976,3288.77,Bengaluru,Credit Card
+ORD0475,04-07-2025,Customer_069,Books,Python Basics,,1632,241.62,Delhi,Credit Card
+ORD0476,07-04-2025,Customer_169,Furniture,Chair,5,64050,,Pune,Debit Card
+ORD0477,13-04-2025,Customer_010,Furniture,Desk,3,54000,11281.21,Nagpur,Credit Card
+ORD0478,03-11-2025,Customer_192,Furniture,Table,5,40495,8683.8,Hyderabad,UPI
+ORD0479,19-10-2025,Customer_114,Clothing,Shoes,1,2534,240.83,Nagpur,Net Banking
+ORD0480,27-04-2025,Customer_166,Electronics,,2,3584,502.11,Pune,Net Banking
+ORD0481,04-04-2025,Customer_168,Electronics,Laptop,5,101925,9216.43,Mumbai,Debit Card
+ORD0482,17-01-2025,Customer_073,Books,Excel Guide,2,4796,958.45,Chennai,UPI
+ORD0483,04-09-2025,Customer_019,Books,Power BI,2,808,134.34,Mumbai,Cash
+ORD0484,25-10-2025,Customer_019,Furniture,Chair,2,17706,3050.07,Pune,Cash
+ORD0485,28-04-2025,Customer_007,Electronics,Keyboard,1,58786,14568.41,Chennai,Cash
+ORD0486,28-05-2025,Customer_080,Books,Python Basics,1,736,102.48,Nagpur,UPI
+ORD0487,09-03-2025,Customer_154,Clothing,Jeans,2,9866,1431.76,Bengaluru,Credit Card
+ORD0488,22-08-2025,Customer_201,Grocery,Rice,4,3772,239.32,Nagpur,Net Banking
+ORD0489,29-09-2025,Customer_083,Electronics,Keyboard,2,64230,18874.15,Mumbai,Cash
+ORD0490,20-02-2025,Customer_232,Books,Excel Guide,4,6076,1211.12,Nagpur,Debit Card
+ORD0491,10-03-2025,Customer_023,Grocery,Tea,5,2460,387.66,Delhi,Net Banking
+ORD0492,24-11-2025,Customer_106,,Smartphone,5,116345,30148.8,Delhi,Debit Card
+ORD0493,11-08-2025,Customer_115,Furniture,Table,4,17236,1298.65,Pune,Cash
+ORD0494,12-01-2025,Customer_081,Grocery,Coffee,5,5970,483.73,Mumbai,Credit Card
+ORD0495,31-07-2025,Customer_112,Books,Data Analytics,3,2967,,Hyderabad,Net Banking
+ORD0496,20-01-2025,Customer_216,Furniture,Table,5,73745,4972.61,Nagpur,UPI
+ORD0497,25-05-2025,Customer_051,Electronics,Headphones,5,155255,8228.63,Mumbai,Debit Card
+ORD0498,09-11-2025,Customer_244,Furniture,Sofa,5,56390,3875.34,Hyderabad,Credit Card
+ORD0499,26-02-2025,Customer_180,Clothing,Jeans,1,4165,1032.85,Chennai,Net Banking
+ORD0500,03-09-2025,Customer_146,Electronics,Monitor,2,64412,10452.11,Chennai,Net Banking
+ORD0501,13-06-2025,Customer_161,,Oil,2,376,109.99,Nagpur,Net Banking
+ORD0502,17-11-2025,Customer_140,Electronics,Keyboard,2,23908,2880.43,Mumbai,Net Banking
+ORD0503,31-03-2025,Customer_104,Electronics,Headphones,1,49956,6784.97,Bengaluru,Credit Card
+ORD0504,09-10-2025,Customer_218,Furniture,Table,2,37030,1949.18,Hyderabad,Cash
+ORD0505,23-05-2025,Customer_106,Electronics,Monitor,5,32180,4152.95,Nagpur,Cash
+ORD0506,07-12-2025,,Clothing,Shoes,5,22105,6606.69,Delhi,Net Banking
+ORD0507,02-12-2025,Customer_159,Electronics,Smartphone,5,273550,42776.77,Delhi,Credit Card
+ORD0508,16-07-2025,Customer_226,Electronics,Keyboard,4,86544,22275.69,Chennai,Credit Card
+ORD0509,25-02-2025,Customer_105,Books,SQL Guide,5,7270,967.22,Delhi,Debit Card
+ORD0510,04-01-2025,,Furniture,Bookshelf,1,23276,2347.9,Mumbai,Cash
+ORD0511,15-04-2025,Customer_206,Electronics,Keyboard,2,86184,11337.95,Hyderabad,Net Banking
+ORD0512,23-06-2025,Customer_170,Electronics,Monitor,2,56950,3664.62,Chennai,Credit Card
+ORD0513,27-08-2025,Customer_159,Electronics,Keyboard,1,1635,407.68,Nagpur,Debit Card
+ORD0514,14-07-2025,Customer_214,Clothing,Jeans,1,3451,918.28,Pune,Credit Card
+ORD0515,16-01-2025,Customer_165,Electronics,Headphones,4,103852,26552.44,Delhi,UPI
+ORD0516,04-11-2025,Customer_019,Furniture,Sofa,5,48025,8562.74,Delhi,Cash
+ORD0517,19-08-2025,Customer_197,Electronics,Keyboard,5,293445,38825.02,Mumbai,Credit Card
+ORD0518,26-03-2025,Customer_030,Furniture,Bookshelf,4,99824,12024.42,Delhi,UPI
+ORD0519,27-05-2025,Customer_228,Electronics,Laptop,5,183485,30140.15,Mumbai,UPI
+ORD0520,12-03-2025,Customer_186,Books,Python Basics,5,11960,3251.4,Bengaluru,Net Banking
+ORD0521,17-07-2025,Customer_057,Grocery,Snacks,4,820,159.87,Delhi,Debit Card
+ORD0522,02-06-2025,Customer_127,Electronics,Laptop,5,92970,15050.72,Delhi,Net Banking
+ORD0523,03-12-2025,Customer_066,Grocery,Snacks,,4088,1134.01,Bengaluru,Debit Card
+ORD0524,10-04-2025,Customer_019,Furniture,Desk,3,10128,1645.66,Pune,Net Banking
+ORD0525,07-06-2025,Customer_204,Furniture,Sofa,3,22701,1868.43,Hyderabad,Net Banking
+ORD0526,10-12-2025,Customer_203,Electronics,Keyboard,,155436,22187.47,Bengaluru,UPI
+ORD0527,31-12-2025,Customer_076,Electronics,Keyboard,1,48174,12003.09,Hyderabad,UPI
+ORD0528,08-12-2025,Customer_146,Books,Python Basics,5,6035,576.44,Chennai,Debit Card
+ORD0529,23-11-2025,Customer_164,Grocery,Coffee,3,2613,599.69,Mumbai,Cash
+ORD0530,08-08-2025,Customer_158,Clothing,T-Shirt,3,4734,529.77,Hyderabad,Cash
+ORD0531,15-06-2025,Customer_055,Electronics,Keyboard,4,28712,6722,Hyderabad,UPI
+ORD0532,25-12-2025,Customer_146,Electronics,Laptop,4,63012,15183.63,Mumbai,Credit Card
+ORD0533,17-07-2025,Customer_242,Grocery,Coffee,1,552,121.01,Chennai,Net Banking
+ORD0534,02-08-2025,Customer_086,Furniture,Bookshelf,2,26092,2723.93,Mumbai,Debit Card
+ORD0535,30-07-2025,Customer_069,Clothing,Hoodie,4,6368,750.06,Mumbai,UPI
+ORD0536,20-11-2025,Customer_249,Clothing,Hoodie,3,11571,1788.72,Delhi,Debit Card
+ORD0537,29-08-2025,Customer_099,Grocery,Rice,5,3580,342.66,Pune,UPI
+ORD0538,19-11-2025,,Furniture,Chair,5,46285,3900.12,Hyderabad,Credit Card
+ORD0539,30-04-2025,Customer_202,Grocery,Oil,4,2968,600.78,Pune,UPI
+ORD0540,26-04-2025,Customer_162,Books,Data Analytics,3,7443,1389.76,Bengaluru,Debit Card
+ORD0541,18-07-2025,Customer_039,Books,Excel Guide,2,4438,716.93,Pune,Net Banking
+ORD0542,09-09-2025,Customer_113,Clothing,Hoodie,3,8967,703.83,Delhi,Net Banking
+ORD0543,20-10-2025,,Electronics,Keyboard,1,47505,3387.92,Bengaluru,Credit Card
+ORD0544,11-11-2025,Customer_069,Furniture,Bookshelf,4,72820,12147.49,Nagpur,Cash
+ORD0545,07-01-2025,Customer_170,Books,Excel Guide,4,4688,492.08,Nagpur,Net Banking
+ORD0546,05-03-2025,Customer_093,Clothing,Hoodie,4,2092,403.85,Chennai,Net Banking
+ORD0547,22-07-2025,Customer_155,Furniture,Bookshelf,4,32680,9789.29,Pune,Net Banking
+ORD0548,25-03-2025,Customer_195,Furniture,Bookshelf,4,21732,5171.1,Nagpur,Debit Card
+ORD0549,10-01-2025,Customer_114,Furniture,Desk,4,16028,3943.98,Hyderabad,Cash
+ORD0550,28-09-2025,Customer_123,Books,Python Basics,1,1857,252.11,Pune,Net Banking
+ORD0551,04-06-2025,Customer_166,Clothing,Shoes,5,18410,4921.69,Mumbai,Credit Card
+ORD0552,07-12-2025,Customer_192,Clothing,,3,10710,808.28,Hyderabad,Credit Card
+ORD0553,20-08-2025,Customer_093,Furniture,Chair,5,84825,5450.06,Chennai,Cash
+ORD0554,29-01-2025,Customer_179,Books,Python Basics,1,465,135.61,Pune,Debit Card
+ORD0555,28-03-2025,Customer_074,Grocery,Snacks,5,5655,1158.92,Mumbai,Cash
+ORD0556,13-04-2025,Customer_024,Electronics,Monitor,0,102396,24255.58,Hyderabad,UPI
+ORD0557,04-08-2025,Customer_214,Electronics,Laptop,3,90297,22000.23,Hyderabad,Net Banking
+ORD0558,16-01-2025,Customer_059,Furniture,Sofa,1,6577,1828.05,Pune,Debit Card
+ORD0559,13-04-2025,Customer_041,Electronics,Headphones,3,75594,9302.77,Mumbai,Credit Card
+ORD0560,05-12-2025,Customer_020,Clothing,Jacket,4,,386.5,Mumbai,Net Banking
+ORD0561,05-08-2025,Customer_080,Grocery,Snacks,5,5925,509.35,Mumbai,Debit Card
+ORD0562,22-12-2025,Customer_164,Electronics,Monitor,3,136095,35385.34,Hyderabad,Cash
+ORD0563,27-10-2025,Customer_103,Grocery,Oil,2,230,24.05,Nagpur,Net Banking
+ORD0564,28-02-2025,Customer_097,Furniture,Sofa,1,5766,298.16,Bengaluru,Credit Card
+ORD0565,24-05-2025,Customer_132,Furniture,Bookshelf,4,72552,20136.74,Hyderabad,Net Banking
+ORD0566,28-12-2025,Customer_137,Grocery,Tea,5,405,,Pune,UPI
+ORD0567,01-12-2025,Customer_093,Grocery,Snacks,2,1940,480.81,Hyderabad,Credit Card
+ORD0568,03-03-2025,Customer_106,Furniture,Chair,1,1719,260.08,Chennai,Net Banking
+ORD0569,19-12-2025,Customer_092,Furniture,Desk,2,48194,5604.61,Hyderabad,Net Banking
+ORD0570,08-03-2025,Customer_030,Grocery,Coffee,4,2424,566.22,Mumbai,Cash
+ORD0571,25-01-2025,Customer_179,Books,Data Analytics,2,1528,316.94,Delhi,Cash
+ORD0572,10-05-2025,Customer_096,Clothing,T-Shirt,2,942,183.87,Mumbai,Net Banking
+ORD0573,13-10-2025,Customer_071,Books,SQL Guide,2,4516,1075.76,Nagpur,Debit Card
+ORD0574,11-01-2025,Customer_103,Books,Data Analytics,2,4564,1043.96,Mumbai,Credit Card
+ORD0575,30-01-2025,Customer_008,Furniture,Sofa,4,88140,8213.7,Mumbai,UPI
+ORD0576,26-01-2025,Customer_027,Electronics,Smartphone,4,41160,2263.52,Chennai,
+ORD0577,18-12-2025,Customer_012,Furniture,Desk,5,67580,9848.15,Delhi,Credit Card
+ORD0578,23-08-2025,Customer_018,Grocery,Oil,5,2915,472.29,Mumbai,Net Banking
+ORD0579,04-08-2025,Customer_146,Furniture,Sofa,1,18136,2952.22,Bengaluru,UPI
+ORD0580,19-09-2025,Customer_026,Grocery,Coffee,1,119,15.93,Nagpur,Cash
+ORD0581,26-09-2025,Customer_226,Clothing,Jacket,2,3434,312.98,Bengaluru,Credit Card
+ORD0582,19-11-2025,Customer_210,Furniture,Bookshelf,3,35613,6996.25,Nagpur,UPI
+ORD0583,01-04-2025,Customer_092,Grocery,Snacks,5,3275,799.77,Nagpur,Net Banking
+ORD0584,10-11-2025,Customer_174,Furniture,Table,5,113165,26384.78,Delhi,Debit Card
+ORD0585,18-11-2025,Customer_166,Grocery,Coffee,1,804,94.24,Nagpur,Debit Card
+ORD0586,29-05-2025,Customer_249,Furniture,Sofa,3,39093,8050.65,Pune,Net Banking
+ORD0587,01-09-2025,Customer_131,Clothing,Jeans,3,1965,141.19,Hyderabad,Cash
+ORD0588,31-01-2025,Customer_011,Furniture,Sofa,1,9802,2898.6,Nagpur,UPI
+ORD0589,07-12-2025,Customer_093,Furniture,Chair,3,73659,21238.03,Hyderabad,Net Banking
+ORD0590,19-11-2025,Customer_225,Grocery,Coffee,1,1099,143.82,Pune,Debit Card
+ORD0591,24-07-2025,Customer_185,Books,Excel Guide,3,6801,1405.82,Nagpur,Debit Card
+ORD0592,31-07-2025,Customer_016,Grocery,Oil,4,4936,889.57,Mumbai,Cash
+ORD0593,21-06-2025,Customer_137,Grocery,Oil,5,1525,106.4,Mumbai,Credit Card
+ORD0594,26-11-2025,Customer_024,Books,Power BI,3,1389,180.59,Mumbai,UPI
+ORD0595,29-01-2025,Customer_151,Furniture,Table,2,43078,3413.75,Delhi,UPI
+ORD0596,03-10-2025,Customer_158,Electronics,Laptop,5,128880,23703.9,Bengaluru,Net Banking
+ORD0597,17-01-2025,Customer_019,Books,SQL Guide,1,2201,380.73,Bengaluru,Debit Card
+ORD0598,13-12-2025,Customer_144,Books,SQL Guide,4,2372,681.52,Mumbai,Net Banking
+ORD0599,16-08-2025,Customer_240,Books,Python Basics,3,6954,2026.25,Pune,UPI
+ORD0600,11-04-2025,Customer_198,Clothing,Shoes,1,4654,1073.64,Delhi,Credit Card
+ORD0601,11-11-2025,Customer_223,Books,SQL Guide,1,1016,234.36,Delhi,Credit Card
+ORD0602,06-02-2025,Customer_026,Electronics,Keyboard,,28270,2312.66,Pune,Cash
+ORD0603,28-03-2025,Customer_147,Clothing,Shoes,2,4564,809.8,Hyderabad,Debit Card
+ORD0604,15-06-2025,Customer_023,Books,Excel Guide,5,3185,716.14,Bengaluru,Credit Card
+ORD0605,19-02-2025,Customer_142,Clothing,Jacket,4,1688,414.89,Chennai,Credit Card
+ORD0606,16-03-2025,Customer_039,Clothing,T-Shirt,3,12618,2225.04,Pune,Net Banking
+ORD0607,31-05-2025,Customer_141,Furniture,Bookshelf,3,55479,2993.81,Delhi,Cash
+ORD0608,05-04-2025,Customer_226,Grocery,Rice,1,,114.16,Chennai,Debit Card
+ORD0609,10-08-2025,Customer_156,Grocery,Snacks,4,3896,680.93,Chennai,Cash
+ORD0610,02-08-2025,Customer_246,Electronics,Smartphone,3,175116,8851.42,Pune,Credit Card
+ORD0611,22-08-2025,Customer_163,Grocery,Snacks,1,429,117.33,Hyderabad,Net Banking
+ORD0612,05-11-2025,Customer_200,Furniture,Table,3,10539,2868.59,Hyderabad,Debit Card
+ORD0613,20-10-2025,Customer_226,Grocery,Oil,1,112,6.03,Nagpur,Cash
+ORD0614,16-07-2025,Customer_067,Grocery,Oil,2,2874,498.12,Hyderabad,Credit Card
+ORD0615,09-01-2025,Customer_048,Furniture,Table,3,8172,1898.38,Bengaluru,Credit Card
+ORD0616,14-04-2025,Customer_074,Electronics,Monitor,2,131862,17718.2,Nagpur,Cash
+ORD0617,13-10-2025,Customer_022,Clothing,,4,17512,1403.07,Bengaluru,Net Banking
+ORD0618,10-08-2025,Customer_002,Electronics,Headphones,3,166509,45769.69,Pune,Credit Card
+ORD0619,19-12-2025,Customer_111,Books,Python Basics,2,4284,880.29,Chennai,Cash
+ORD0620,26-02-2025,Customer_042,Books,Data Analytics,3,3102,490.21,Mumbai,UPI
+ORD0621,01-06-2025,Customer_226,Clothing,Jeans,5,10385,2264.07,Chennai,Debit Card
+ORD0622,23-10-2025,Customer_034,Clothing,Jacket,1,1459,210.17,Nagpur,Cash
+ORD0623,16-07-2025,Customer_010,Electronics,Laptop,4,45932,5908.74,Chennai,Debit Card
+ORD0624,12-01-2025,Customer_138,Electronics,Monitor,1,10291,1326.04,Pune,UPI
+ORD0625,25-02-2025,Customer_118,Electronics,Laptop,3,203415,18726.21,Hyderabad,Net Banking
+ORD0626,27-11-2025,Customer_184,Grocery,Tea,5,3785,1010.79,Pune,Credit Card
+ORD0627,31-03-2025,Customer_232,Books,Data Analytics,4,4492,726.34,Pune,UPI
+ORD0628,03-04-2025,Customer_114,Furniture,Sofa,5,83255,15435.41,Hyderabad,Cash
+ORD0629,26-03-2025,Customer_109,Clothing,T-Shirt,4,8144,487.45,Nagpur,Net Banking
+ORD0630,08-03-2025,Customer_062,Furniture,Bookshelf,5,34880,5751.84,Delhi,Net Banking
+ORD0631,16-05-2025,Customer_151,Furniture,Chair,4,58400,15316.04,Hyderabad,Credit Card
+ORD0632,15-12-2025,Customer_105,Books,Python Basics,3,1245,191.02,Hyderabad,Credit Card
+ORD0633,13-04-2025,Customer_146,Grocery,Snacks,4,2948,718.52,Nagpur,Credit Card
+ORD0634,24-05-2025,Customer_136,Grocery,Tea,4,924,214.86,Pune,Credit Card
+ORD0635,13-05-2025,Customer_023,Grocery,Tea,2,1306,248.84,Pune,Credit Card
+ORD0636,27-11-2025,Customer_118,Clothing,Hoodie,3,4971,918.63,Pune,Debit Card
+ORD0637,31-07-2025,Customer_162,Grocery,Coffee,2,1746,187.87,Pune,Cash
+ORD0638,26-06-2025,Customer_228,Grocery,Rice,3,282,32.53,Nagpur,Credit Card
+ORD0639,09-02-2025,Customer_019,Clothing,Jacket,1,4115,976.92,Bengaluru,Credit Card
+ORD0640,25-08-2025,Customer_138,Books,Data Analytics,3,4704,427.68,Nagpur,UPI
+ORD0641,07-10-2025,Customer_011,Electronics,Keyboard,5,231955,46836.68,Pune,Cash
+ORD0642,10-12-2025,Customer_080,Clothing,Shoes,4,12000,3369.51,Pune,Cash
+ORD0643,15-07-2025,Customer_075,Furniture,Bookshelf,5,19780,4634.55,Delhi,Credit Card
+ORD0644,13-04-2025,Customer_211,Books,Excel Guide,5,4110,432,Chennai,Debit Card
+ORD0645,02-06-2025,Customer_225,Books,Data Analytics,2,3692,432.52,Nagpur,UPI
+ORD0646,03-04-2025,Customer_164,Clothing,Jeans,2,-500,1340.68,Delhi,Credit Card
+ORD0647,28-04-2025,Customer_229,Books,Python Basics,5,3745,296.5,Nagpur,UPI
+ORD0648,30-04-2025,Customer_084,Furniture,Table,1,16184,4149.59,Delhi,Cash
+ORD0649,30-05-2025,Customer_046,Clothing,T-Shirt,3,4206,737.96,Pune,Debit Card
+ORD0650,27-08-2025,Customer_115,Books,Python Basics,5,10595,1328.78,Nagpur,UPI
+ORD0651,09-12-2025,Customer_084,Clothing,Shoes,4,13144,2466.77,Bengaluru,UPI
+ORD0652,06-09-2025,Customer_237,Electronics,Headphones,2,4306,308.68,Delhi,UPI
+ORD0653,03-09-2025,,Furniture,Chair,1,24385,4416.74,Mumbai,UPI
+ORD0654,19-10-2025,Customer_052,Grocery,Snacks,2,2118,337.88,Nagpur,UPI
+ORD0655,23-09-2025,Customer_188,Books,SQL Guide,1,1560,307.07,Mumbai,Debit Card
+ORD0656,19-02-2025,Customer_242,,Jacket,3,2709,599.85,Nagpur,Credit Card
+ORD0657,17-10-2025,Customer_120,Furniture,Table,1,20270,2514.38,Pune,Debit Card
+ORD0658,09-05-2025,Customer_030,Furniture,Sofa,4,22264,3309.27,Chennai,UPI
+ORD0659,26-08-2025,Customer_065,Grocery,Oil,3,3843,699.02,Pune,Debit Card
+ORD0660,06-07-2025,Customer_234,Clothing,Jacket,3,6741,459.63,Chennai,Cash
+ORD0661,07-06-2025,Customer_120,Furniture,Desk,2,2110,260.95,Nagpur,Cash
+ORD0662,15-04-2025,Customer_150,Clothing,T-Shirt,2,9470,2612,Mumbai,Cash
+ORD0663,06-02-2025,Customer_231,Furniture,Bookshelf,1,16407,3988,Bengaluru,Net Banking
+ORD0664,07-07-2025,Customer_082,Books,Python Basics,2,2094,352.89,Bengaluru,UPI
+ORD0665,04-02-2025,Customer_249,Furniture,Table,5,86890,21504.72,Nagpur,Net Banking
+ORD0666,16-11-2025,Customer_041,Furniture,Chair,2,39648,4831.13,Nagpur,Cash
+ORD0667,01-11-2025,Customer_225,Electronics,Smartphone,1,29349,3572.12,Bengaluru,Cash
+ORD0668,05-02-2025,Customer_048,Books,SQL Guide,1,2120,246.08,Delhi,Cash
+ORD0669,07-07-2025,Customer_061,Grocery,Snacks,3,2454,431.37,Hyderabad,Credit Card
+ORD0670,01-07-2025,Customer_084,Electronics,Headphones,4,52788,13538.65,Pune,Net Banking
+ORD0671,13-11-2025,Customer_123,Electronics,Monitor,1,11774,1663.75,Nagpur,UPI
+ORD0672,20-10-2025,Customer_129,Electronics,Headphones,5,36290,6143.41,Hyderabad,Cash
+ORD0673,05-10-2025,Customer_070,Furniture,Chair,3,30519,7402.6,Mumbai,Credit Card
+ORD0674,08-01-2025,Customer_074,Furniture,Desk,4,43888,6447.42,Chennai,Net Banking
+ORD0675,09-11-2025,Customer_178,Furniture,Bookshelf,3,23316,6497.87,Mumbai,Credit Card
+ORD0676,25-05-2025,Customer_019,Furniture,Chair,3,59628,16867.13,Delhi,Debit Card
+ORD0677,25-02-2025,Customer_022,Electronics,Monitor,3,63693,9080.92,Pune,Debit Card
+ORD0678,18-06-2025,Customer_205,Furniture,Desk,1,19454,2256.54,Nagpur,Net Banking
+ORD0679,26-11-2025,Customer_183,Furniture,Bookshelf,1,14541,762.6,Hyderabad,Debit Card
+ORD0680,12-10-2025,Customer_018,Furniture,Bookshelf,4,64992,10733.15,Hyderabad,Credit Card
+ORD0681,24-08-2025,Customer_086,Electronics,Headphones,2,20450,4311.73,Pune,Cash
+ORD0682,22-07-2025,Customer_180,Electronics,Smartphone,1,15837,1947.43,Hyderabad,Debit Card
+ORD0683,31-10-2025,Customer_154,Grocery,Snacks,3,1290,155.38,Chennai,Credit Card
+ORD0684,07-03-2025,Customer_010,Books,Power BI,2,3430,659.7,Chennai,Net Banking
+ORD0685,21-05-2025,Customer_190,Furniture,Chair,1,22871,1924.04,Bengaluru,Credit Card
+ORD0686,18-02-2025,Customer_051,Electronics,Smartphone,4,42608,5249.44,Chennai,UPI
+ORD0687,22-08-2025,Customer_046,Clothing,,2,4082,684.57,Chennai,UPI
+ORD0688,30-05-2025,Customer_020,Grocery,Tea,5,5805,1265.9,Pune,UPI
+ORD0689,25-06-2025,Customer_237,Electronics,Headphones,0,69750,6231.67,Hyderabad,Net Banking
+ORD0690,07-08-2025,Customer_057,Electronics,Smartphone,4,193592,39759.31,Bengaluru,Debit Card
+ORD0691,11-05-2025,Customer_073,Electronics,Monitor,3,89541,19607.08,Mumbai,UPI
+ORD0692,28-07-2025,Customer_038,Furniture,Desk,3,37989,10391.72,Hyderabad,UPI
+ORD0693,01-06-2025,Customer_164,Furniture,Bookshelf,1,23183,4734.46,Bengaluru,UPI
+ORD0694,04-03-2025,Customer_084,Furniture,Table,4,95564,8449.87,Pune,Cash
+ORD0695,14-09-2025,Customer_209,Books,Python Basics,3,4875,268.54,Pune,Debit Card
+ORD0696,14-01-2025,Customer_238,Books,Excel Guide,1,2441,611.87,Pune,Credit Card
+ORD0697,13-03-2025,Customer_162,Furniture,Chair,2,43886,5900.66,Mumbai,Debit Card
+ORD0698,28-12-2025,Customer_093,Furniture,Bookshelf,1,14275,979.37,Pune,Cash
+ORD0699,01-06-2025,Customer_237,,Laptop,2,124128,21231.61,Bengaluru,Debit Card
+ORD0700,17-08-2025,Customer_221,Furniture,Chair,3,24585,3132.13,Mumbai,UPI
+ORD0701,15-04-2025,Customer_010,Grocery,Oil,4,5632,965.95,Mumbai,Net Banking
+ORD0702,28-12-2025,Customer_125,Grocery,Oil,3,,225.09,Hyderabad,Net Banking
+ORD0703,29-12-2025,Customer_210,Books,Power BI,3,2454,321.78,Nagpur,Credit Card
+ORD0704,04-10-2025,Customer_064,Furniture,Desk,3,4092,1172.13,Nagpur,Cash
+ORD0705,24-03-2025,Customer_225,Furniture,Chair,3,41391,5237.99,Hyderabad,Net Banking
+ORD0706,26-01-2025,Customer_210,Furniture,Bookshelf,3,22599,5253.64,Hyderabad,Net Banking
+ORD0707,26-10-2025,Customer_076,Clothing,T-Shirt,3,5739,1585.34,Bengaluru,Debit Card
+ORD0708,30-09-2025,Customer_068,Books,Data Analytics,2,662,67.94,Hyderabad,Net Banking
+ORD0709,17-07-2025,Customer_026,Books,Data Analytics,5,11450,987.37,Bengaluru,Debit Card
+ORD0710,25-12-2025,Customer_138,Electronics,Headphones,1,53526,12502.47,Chennai,UPI
+ORD0711,23-01-2025,Customer_048,Electronics,Smartphone,5,279030,69385.2,Delhi,UPI
+ORD0712,13-01-2025,Customer_139,Grocery,Tea,3,3360,985.65,Hyderabad,Net Banking
+ORD0713,04-05-2025,Customer_010,Furniture,Table,5,85525,13735.18,Pune,Debit Card
+ORD0714,24-01-2025,Customer_206,Grocery,Snacks,1,491,77.83,Nagpur,Cash
+ORD0715,04-01-2025,Customer_157,Furniture,Bookshelf,5,59865,5431.29,Pune,UPI
+ORD0716,28-08-2025,Customer_021,Clothing,Jeans,3,5691,346.98,Delhi,UPI
+ORD0717,13-12-2025,Customer_114,Clothing,Jacket,1,4600,321.6,Hyderabad,Credit Card
+ORD0718,01-03-2025,Customer_141,Books,SQL Guide,4,3852,1035.23,Pune,UPI
+ORD0719,26-02-2025,Customer_177,Electronics,Laptop,2,84440,21634.31,Pune,UPI
+ORD0720,02-01-2025,Customer_073,Grocery,Oil,1,539,114.97,Pune,Cash
+ORD0721,02-12-2025,Customer_139,Grocery,Oil,1,1251,200.74,Nagpur,Cash
+ORD0722,05-07-2025,Customer_031,Books,SQL Guide,1,463,47.99,Bengaluru,Cash
+ORD0723,17-09-2025,Customer_219,Electronics,Smartphone,5,64010,15739.8,Hyderabad,UPI
+ORD0724,15-08-2025,Customer_105,Clothing,Shoes,4,2728,223.82,Chennai,Net Banking
+ORD0725,22-06-2025,Customer_154,Clothing,Jacket,3,4977,1474.35,Chennai,Credit Card
+ORD0726,02-01-2025,Customer_106,Grocery,Rice,4,2040,198.43,Hyderabad,Debit Card
+ORD0727,23-02-2025,Customer_104,Furniture,Sofa,1,23722,4678.04,Chennai,Credit Card
+ORD0728,14-10-2025,Customer_176,Books,SQL Guide,2,3380,463.57,Chennai,Cash
+ORD0729,25-09-2025,Customer_023,Books,Data Analytics,3,5505,1136.76,Chennai,Net Banking
+ORD0730,14-02-2025,Customer_204,Clothing,Shoes,3,2868,454.42,Pune,Net Banking
+ORD0731,23-09-2025,Customer_064,Clothing,Hoodie,4,,1234.85,Nagpur,Net Banking
+ORD0732,15-03-2025,Customer_175,Grocery,Coffee,4,5332,400.73,Mumbai,Credit Card
+ORD0733,08-07-2025,Customer_221,Electronics,Smartphone,5,313590,37599.55,Mumbai,Credit Card
+ORD0734,31-05-2025,Customer_196,Grocery,Rice,2,872,165.12,Delhi,Net Banking
+ORD0735,04-09-2025,Customer_060,Clothing,Hoodie,2,9990,734.24,Bengaluru,UPI
+ORD0736,24-02-2025,Customer_051,Grocery,Oil,3,1146,296.99,Chennai,UPI
+ORD0737,19-12-2025,Customer_205,Electronics,Monitor,5,74105,14498.07,Hyderabad,Credit Card
+ORD0738,13-08-2025,Customer_226,Furniture,Chair,5,55485,9658.87,Pune,Net Banking
+ORD0739,06-04-2025,Customer_056,Clothing,Hoodie,4,12200,1129.29,Delhi,UPI
+ORD0740,21-10-2025,Customer_226,Books,Python Basics,4,4712,561.01,Mumbai,Credit Card
+ORD0741,05-09-2025,Customer_127,Electronics,Keyboard,2,135040,23424.35,Mumbai,Credit Card
+ORD0742,28-06-2025,Customer_016,Grocery,Coffee,4,2768,488.42,Mumbai,Net Banking
+ORD0743,22-07-2025,Customer_161,Clothing,Jeans,1,1197,310,Delhi,Cash
+ORD0744,21-08-2025,,Furniture,Sofa,1,18376,2838.67,Delhi,UPI
+ORD0745,16-08-2025,Customer_192,Grocery,Rice,4,1424,216.78,Pune,Net Banking
+ORD0746,20-04-2025,Customer_099,Books,Python Basics,1,1913,483.32,Delhi,UPI
+ORD0747,03-07-2025,Customer_014,Books,Power BI,3,3876,1115.7,Pune,Credit Card
+ORD0748,10-10-2025,Customer_017,Grocery,Tea,4,584,29.39,Hyderabad,UPI
+ORD0749,21-03-2025,Customer_018,Books,SQL Guide,5,10410,2706.6,Pune,Credit Card
+ORD0750,04-12-2025,Customer_178,Electronics,Smartphone,5,173635,21902.99,Delhi,UPI
+ORD0751,11-12-2025,Customer_160,Furniture,Sofa,1,7142,885.29,Chennai,Debit Card
+ORD0752,16-09-2025,Customer_227,Grocery,Oil,4,2980,217.74,Pune,UPI
+ORD0753,25-02-2025,,Furniture,Table,1,22201,1337.34,Chennai,Debit Card
+ORD0754,28-07-2025,Customer_215,Books,Data Analytics,2,1132,270.54,Chennai,Cash
+ORD0755,29-11-2025,,Electronics,Laptop,4,192644,13159.78,Bengaluru,UPI
+ORD0756,07-01-2025,Customer_215,Electronics,Keyboard,4,66128,,Nagpur,Net Banking
+ORD0757,26-07-2025,Customer_077,Books,Python Basics,1,515,137.89,Delhi,Net Banking
+ORD0758,11-05-2025,Customer_067,Clothing,Jeans,4,14896,1018.75,Nagpur,Cash
+ORD0759,23-10-2025,Customer_193,Clothing,Jacket,5,5745,734.93,Delhi,Credit Card
+ORD0760,25-03-2025,Customer_077,Grocery,Rice,3,417,56.71,Pune,Net Banking
+ORD0761,30-07-2025,Customer_095,Books,Data Analytics,4,7356,1769.18,Nagpur,UPI
+ORD0762,31-12-2025,Customer_189,Books,Excel Guide,4,5200,1163.84,Delhi,Debit Card
+ORD0763,16-03-2025,Customer_209,Furniture,Table,3,13101,969.89,Nagpur,Debit Card
+ORD0764,28-02-2025,Customer_147,Clothing,Shoes,4,10732,2990.52,Hyderabad,Cash
+ORD0765,07-03-2025,Customer_042,Books,SQL Guide,3,3399,800.16,Pune,Cash
+ORD0766,11-12-2025,Customer_189,Electronics,Keyboard,1,61960,13471.4,Mumbai,Credit Card
+ORD0767,26-09-2025,Customer_047,Grocery,Oil,3,1449,,Nagpur,Net Banking
+ORD0768,12-06-2025,Customer_173,Electronics,Monitor,5,196810,49365.09,Delhi,Credit Card
+ORD0769,10-09-2025,,Furniture,Table,1,17814,5006.71,Pune,Debit Card
+ORD0770,09-11-2025,Customer_108,Clothing,Hoodie,4,16920,4466.13,Nagpur,UPI
+ORD0771,04-06-2025,Customer_099,Books,Python Basics,2,2094,369.83,Mumbai,UPI
+ORD0772,18-01-2025,Customer_145,Electronics,Smartphone,4,272912,56699.8,Mumbai,Credit Card
+ORD0773,09-06-2025,Customer_084,Books,Data Analytics,4,8436,622.27,Mumbai,Cash
+ORD0774,12-06-2025,Customer_043,Books,Python Basics,3,6228,995.71,Mumbai,Net Banking
+ORD0775,14-06-2025,Customer_194,Clothing,Jeans,5,2660,473.68,Mumbai,Net Banking
+ORD0776,14-05-2025,Customer_220,Electronics,Smartphone,3,54219,11213.28,Hyderabad,Credit Card
+ORD0777,20-04-2025,Customer_221,Furniture,Desk,4,91068,16745.63,Mumbai,Cash
+ORD0778,31-01-2025,Customer_205,Grocery,Rice,0,4360,1185.72,Chennai,Debit Card
+ORD0779,24-12-2025,Customer_137,Clothing,Jeans,5,22790,6247.33,Hyderabad,Net Banking
+ORD0780,31-08-2025,Customer_093,Grocery,Tea,2,764,46.63,Pune,Cash
+ORD0781,09-12-2025,Customer_173,Clothing,Jacket,3,14868,3273.13,Bengaluru,Net Banking
+ORD0782,09-05-2025,Customer_114,Grocery,Rice,4,4496,517.79,Bengaluru,Net Banking
+ORD0783,07-05-2025,Customer_205,Electronics,Keyboard,4,140248,11286.08,Delhi,Net Banking
+ORD0784,07-11-2025,Customer_147,Furniture,Chair,1,10104,3010.72,Delhi,Credit Card
+ORD0785,14-12-2025,Customer_071,Grocery,Tea,2,608,132.14,Chennai,Debit Card
+ORD0786,13-05-2025,Customer_055,Furniture,Table,5,90695,18100.59,Delhi,Net Banking
+ORD0787,18-02-2025,Customer_121,Furniture,Bookshelf,2,8372,1499.11,Pune,Net Banking
+ORD0788,08-01-2025,Customer_032,Electronics,Headphones,5,287910,63937.11,Hyderabad,Credit Card
+ORD0789,29-05-2025,Customer_204,Books,Excel Guide,3,2406,533.45,Bengaluru,Credit Card
+ORD0790,06-09-2025,Customer_023,Furniture,Chair,2,20092,5638.68,Hyderabad,Cash
+ORD0791,19-07-2025,Customer_194,Books,SQL Guide,3,4527,992.63,Chennai,Credit Card
+ORD0792,04-11-2025,Customer_115,,Oil,2,394,60.13,Chennai,Credit Card
+ORD0793,21-01-2025,Customer_238,Books,Power BI,5,8815,2190.3,Bengaluru,Credit Card
+ORD0794,12-07-2025,Customer_200,Furniture,Bookshelf,4,11224,1322.72,Hyderabad,Debit Card
+ORD0795,16-05-2025,Customer_196,Electronics,Smartphone,1,47448,6623.3,Delhi,UPI
+ORD0796,20-09-2025,Customer_049,Grocery,Snacks,4,4184,224.74,Pune,Cash
+ORD0797,05-07-2025,Customer_098,Furniture,Desk,3,54531,6577.78,Hyderabad,Credit Card
+ORD0798,17-02-2025,Customer_051,Furniture,Sofa,1,5027,1109.8,Pune,Credit Card
+ORD0799,05-05-2025,,Grocery,Oil,4,1520,107.55,Chennai,UPI
+ORD0800,25-04-2025,Customer_057,Grocery,Tea,2,2836,787.45,Mumbai,Cash
+ORD0062,28-10-2025,Customer_155,Electronics,Monitor,1,17707,3113.85,Pune,Credit Card
+ORD0800,25-04-2025,Customer_057,Grocery,Tea,2,2836,787.45,Mumbai,Cash
+ORD0748,10-10-2025,Customer_017,Grocery,Tea,4,584,29.39,Hyderabad,UPI
+ORD0669,07-07-2025,Customer_061,Grocery,Snacks,3,2454,431.37,Hyderabad,Credit Card
+ORD0727,23-02-2025,Customer_104,Furniture,Sofa,1,23722,4678.04,Chennai,Credit Card
+ORD0111,30-03-2025,Customer_073,Books,Data Analytics,2,2060,218.27,Hyderabad,Net Banking
+ORD0390,31-08-2025,Customer_018,Electronics,Headphones,4,192096,29775.08,Bengaluru,Net Banking
+ORD0465,10-06-2025,Customer_028,Electronics,Laptop,1,1015,239.55,Mumbai,UPI
+ORD0035,07-09-2025,Customer_010,Books,Power BI,2,4014,852.75,Chennai,Net Banking
+ORD0245,07-09-2025,Customer_019,Grocery,Oil,3,459,88.29,Delhi,Net Banking
+ORD0272,12-04-2025,Customer_216,Electronics,Headphones,3,169653,48664.76,Chennai,Cash
+ORD0284,09-10-2025,Customer_115,Books,Python Basics,5,4550,815.24,Bengaluru,Net Banking
+ORD0732,15-03-2025,Customer_175,Grocery,Coffee,4,5332,400.73,Mumbai,Credit Card
+ORD0481,04-04-2025,Customer_168,Electronics,Laptop,5,101925,9216.43,Mumbai,Debit Card
+ORD0301,03-03-2025,Customer_157,Books,Power BI,5,4090,216.24,Mumbai,UPI
+ORD0773,09-06-2025,Customer_084,Books,Data Analytics,4,8436,622.27,Mumbai,Cash
+ORD0143,03-07-2025,Customer_239,Grocery,Oil,2,532,103.75,Bengaluru,Credit Card
+ORD0257,01-12-2025,Customer_022,Furniture,Desk,4,4636,583.2,Chennai,Cash
+ORD0621,01-06-2025,Customer_226,Clothing,Jeans,5,10385,2264.07,Chennai,Debit Card
+ORD0278,13-02-2025,Customer_137,Electronics,Smartphone,1,46042,12145.96,Delhi,Credit Card
